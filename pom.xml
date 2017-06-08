@@ -443,8 +443,8 @@
 	<dependencies>
 		<dependency>
 		    <groupId>org.eclipse.mylyn.github</groupId>
-		    <artifactId>org.eclipse.egit.github.core.tests</artifactId>
-		    <version>3.1.0.201310021548-r</version>
+		    <artifactId>org.eclipse.egit.github.core</artifactId>
+		    <version>3.1.0.201310021548</version>
 		</dependency>
 		<dependency>
 			<groupId>net.jcip</groupId>
